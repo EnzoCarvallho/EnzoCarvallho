@@ -8,9 +8,7 @@
 
 # 📊 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoCarvallho&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCarvallho&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/enzocarvallho/enzocarvallho/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
