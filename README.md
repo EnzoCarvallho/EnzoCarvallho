@@ -9,7 +9,7 @@
 # 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enzocarvallho/enzocarvallho/output/dist/github-contribution-grid-snake.svg" />
+  <img src=https://raw.githubusercontent.com/enzocarvallho/enzocarvallho/output/github-contribution-grid-snake-dark.svg />
 </p>
 
 ---
