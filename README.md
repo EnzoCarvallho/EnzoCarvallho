@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Front-End em formação  
-🚀 Atualmente estudando JavaScript, APIs e Git/GitHub  
+🚀 Atualmente estudando HTML,CSS, JavaScript, APIs e Git/GitHub  
 
 ---
 
