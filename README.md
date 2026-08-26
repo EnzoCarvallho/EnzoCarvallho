@@ -37,6 +37,5 @@
 ---
 
 # 📫 Contato
-
 - GitHub: https://github.com/EnzoCarvallho  
-- LinkedIn: https://www.linkedin.com/in/SEU_LINK_AQUI  
+- LinkedIn: https://www.linkedin.com/in/enzo-maciel-55a18342b/
